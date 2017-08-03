@@ -1,0 +1,2 @@
+input/penn/egyptian-20170730.json
+input/penn/near-eastern-20170730.json

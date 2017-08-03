@@ -1,0 +1,183 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>02751cem a22005293a 4500</marc:leader>
+        <marc:controlfield tag="001">6830501</marc:controlfield>
+        <marc:controlfield tag="005">20130826161518.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">110422s1944    xx f      a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">25000</marc:subfield>
+            <marc:subfield code="d">28.083332</marc:subfield>
+            <marc:subfield code="e">28.233334</marc:subfield>
+            <marc:subfield code="f">41.316667</marc:subfield>
+            <marc:subfield code="g">41.216667</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 65312</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="a">tur</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">a-tu---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="110" ind1="1" ind2=" ">
+            <marc:subfield code="a">Great Britain.</marc:subfield>
+            <marc:subfield code="b">Army.</marc:subfield>
+            <marc:subfield code="b">Middle East Forces.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">1:25,000 Istanbul.</marc:subfield>
+            <marc:subfield code="n">Sheet 13,</marc:subfield>
+            <marc:subfield code="p">Sinekli.</marc:subfield>
+            <marc:subfield code="h">[cartographic material] /</marc:subfield>
+            <marc:subfield code="c">Reproduced by 524 Pal. Fd. Survey Coy., R.E., April 1944 from 1:25,000 Turkish original dated 1917.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2="0">
+            <marc:subfield code="i">Alternate title:</marc:subfield>
+            <marc:subfield code="a">Sinekli</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">1st ed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:25,000</marc:subfield>
+            <marc:subfield code="c">(E 28°5ʹ--E 28°14ʹ/N 41°19ʹ--N 41°13ʹ).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Palestine] :</marc:subfield>
+            <marc:subfield code="b">Royal Engineers. Palestinian Field Survey Company, 524th,</marc:subfield>
+            <marc:subfield code="c">1944.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">col. ;</marc:subfield>
+            <marc:subfield code="c">40 x 50 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Great Britain. Army. Middle East Drawing and Reproduction. M.D.R. 629/9187.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: Sinekli. Relief shown by form lines and spot elevation. Greenwich and Istanbul meridians. Mediterranean grid. With a Turkish/English glossary. "Reproduced by 524 Pal. Fd. Survey Co., R.E., Apr. 1944 from 1:25,000 Turkish original dated 1917.".</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">M.D.R. ;</marc:subfield>
+            <marc:subfield code="v">629/9187</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by form lines and spot elevation.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mediterranean grid.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Greenwich and Istanbul meridians.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes Turkish-English glossary and grid diagram. No index.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Shows railway, five classes of roads and tracks, telephone and telegraph lines, and various types of vegetation cover.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">English and Turkish.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by form lines and spot elevation.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mediterranean grid.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Greenwich and Istanbul meridians.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes Turkish-English glossary and grid diagram. No index.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Shows railway, five classes of roads and tracks, telephone and telegraph lines, and various types of vegetation cover.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="530" ind1=" " ind2=" ">
+            <marc:subfield code="a">Available also online through:</marc:subfield>
+            <marc:subfield code="b">Princeton University Libraries, Digital Map &amp; Geographic Data Web site.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">İstanbul İli (Turkey)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Istanbul Region (Turkey)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Istanbul (Turkey)</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Sinekli.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+            <marc:subfield code="2">lcgft</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Quadrangle maps.</marc:subfield>
+            <marc:subfield code="2">lcgft</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="1" ind2=" ">
+            <marc:subfield code="a">Great Britain.</marc:subfield>
+            <marc:subfield code="b">Army.</marc:subfield>
+            <marc:subfield code="b">Royal Engineers.</marc:subfield>
+            <marc:subfield code="b">Palestinian Field Survey Coy., 524.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="1" ind2=" ">
+            <marc:subfield code="a">Great Britain.</marc:subfield>
+            <marc:subfield code="b">Army.</marc:subfield>
+            <marc:subfield code="b">Middle East Drawing and Reproduction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="810" ind1="1" ind2=" ">
+            <marc:subfield code="a">Great Britain.</marc:subfield>
+            <marc:subfield code="b">Army.</marc:subfield>
+            <marc:subfield code="b">Middle East Forces.</marc:subfield>
+            <marc:subfield code="t">M.D.R. ;</marc:subfield>
+            <marc:subfield code="v">629/9187.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimap</marc:subfield>
+            <marc:subfield code="h">G7433.I8C2 s25</marc:subfield>
+            <marc:subfield code="i">.A7M5 no.13</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map.</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/642</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00192cx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6752809</marc:controlfield>
+        <marc:controlfield tag="004">6830501</marc:controlfield>
+        <marc:controlfield tag="005">20130205164848.0</marc:controlfield>
+        <marc:controlfield tag="008">1109270u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimap</marc:subfield>
+            <marc:subfield code="h">G7433.I8C2 s25</marc:subfield>
+            <marc:subfield code="i">.A7M5 no.13</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7324483</marc:controlfield>
+        <marc:controlfield tag="004">6830501</marc:controlfield>
+        <marc:controlfield tag="005">20130514134414.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
